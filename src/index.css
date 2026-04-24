@@ -1,0 +1,17 @@
+.welcome{
+    color: white;
+    margin: 0px;
+    padding: 30px;
+    background-color: green;
+    font-size: 3em;
+    border-radius: 5px;
+}
+
+.invalid{
+    color: white;
+    margin: 0px;
+    padding: 30px;
+    background-color: red;
+    font-size: 3em;
+    border-radius: 5px;
+}
